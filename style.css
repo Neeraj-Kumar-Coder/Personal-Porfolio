@@ -105,11 +105,11 @@ nav .navbar ul li a:hover, nav .navbar ul li a:active {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    transition: all 250ms linear;
 }
 
 .mainsection a:hover {
     padding-left: 10px;
-    transition-duration: 0.5s;
 }
 
 #greet {
